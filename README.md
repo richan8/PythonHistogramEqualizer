@@ -5,7 +5,7 @@ Histogram Equalization is a method of image processing where the intensity value
 
 ## How it works
 
-The procedure for equalizing the histogram of an Image involves finding out the frequency of all intensities in the image. It uses this to create a cumulative sum. This alongside the frequency of the least intensity pixel is used to stretch out the intensity range of the most frequent intensity values. Since the stretched out histogram has more number of pixels cover a broader range of intensity values, the equalization results in a clearer image with higher contrast. The results of equalizing the histogram of the intensities of an image using this application are given below.
+The procedure for equalizing the histogram of an Image involves finding out the frequency of all intensities in the image. It uses this to create a cumulative sum. This alongside the frequency of the least intensity pixel is used to stretch out the intensity range of the most frequent intensity values. Since the stretched out histogram has more number of pixels cover a broader range of intensity values, the equalization results in a clearer image with higher contrast. The results of equalizing intensity histograms of images using this application are given below.
 
 ## Results
 
