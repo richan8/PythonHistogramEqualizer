@@ -5,7 +5,17 @@ Histogram Equalization is a method of image processing where the intensity value
 
 ## Results
 
-![Example 1](https://github.com/richan8/PythonHistogramEqualizer/blob/main/imgs/1.png)![Example 1 Equalized](https://github.com/richan8/PythonHistogramEqualizer/blob/main/imgs/1eq.png)
+![Example 1](https://github.com/richan8/PythonHistogramEqualizer/blob/main/imgs/1.png)
+![Example 1 Equalized](https://github.com/richan8/PythonHistogramEqualizer/blob/main/imgs/1eq.png)
+
+![Example 2](https://github.com/richan8/PythonHistogramEqualizer/blob/main/imgs/2.png)
+![Example 2 Equalized](https://github.com/richan8/PythonHistogramEqualizer/blob/main/imgs/2eq.png)
+
+![Example 2](https://github.com/richan8/PythonHistogramEqualizer/blob/main/imgs/3.jpg)
+![Example 2 Equalized](https://github.com/richan8/PythonHistogramEqualizer/blob/main/imgs/3eq.jpg)
+
+![Example 2](https://github.com/richan8/PythonHistogramEqualizer/blob/main/imgs/4.jpg)
+![Example 2 Equalized](https://github.com/richan8/PythonHistogramEqualizer/blob/main/imgs/4eq.jpg)
 
 ## How it works
 
